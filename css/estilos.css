@@ -35,7 +35,7 @@ h1 {
 }
 
 h1:has(+ .tagline) { margin-bottom: 4px; }
-.tagline { color: var(--muted); margin-bottom: 4px; }
+.tagline { font-weight: 600; margin-bottom: 4px; }
 .tagline span { white-space: nowrap; }
 .contact { color: var(--muted); margin-bottom: 28px; }
 
