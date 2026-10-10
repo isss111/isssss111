@@ -34,6 +34,11 @@ h1 {
   margin: 20px 0 24px;
 }
 
+h1:has(+ .tagline) { margin-bottom: 4px; }
+.tagline { color: var(--muted); margin-bottom: 4px; }
+.tagline span { white-space: nowrap; }
+.contact { color: var(--muted); margin-bottom: 28px; }
+
 h2 {
   font-size: 15px;
   font-weight: 600;
