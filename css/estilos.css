@@ -85,7 +85,8 @@ main > h1:first-child { margin-top: 0; }
   .menu {
     position: static;
     flex-direction: row;
-    gap: 20px;
+    flex-wrap: wrap;
+    gap: 6px 20px;
     padding: 24px 20px 0;
   }
   main { padding: 32px 20px 64px; }
