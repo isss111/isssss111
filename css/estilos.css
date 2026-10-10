@@ -45,6 +45,14 @@ h2 {
   margin: 40px 0 8px;
 }
 
+h3 {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--muted);
+  margin: 20px 0 6px;
+}
+h2 + h3 { margin-top: 8px; }
+
 p { margin: 0 0 14px; }
 
 a { color: var(--link); text-decoration: none; }
