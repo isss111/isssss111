@@ -94,3 +94,5 @@ main > h1:first-child { margin-top: 0; }
 
 .note { margin-top: 12px; color: var(--muted); }
 
+
+.section-intro { margin-top: 40px; }
