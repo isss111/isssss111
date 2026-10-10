@@ -93,3 +93,10 @@ main > h1:first-child { margin-top: 0; }
 }
 
 .note { margin-top: 12px; color: var(--muted); }
+
+.bio-short {
+  margin: 0 0 14px;
+  padding: 12px 16px;
+  border-left: 3px solid #e5e5e5;
+  background: #fafafa;
+}
