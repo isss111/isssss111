@@ -132,3 +132,11 @@ figure.portrait img { max-width: 360px; }
 }
 .talks h2 + h3 { margin-top: 8px; }
 .talks + h2 { margin-top: 56px; }
+
+.events h3 {
+  font-size: 15px;
+  color: var(--text);
+  margin: 48px 0 8px;
+}
+.events h2 + h3 { margin-top: 8px; }
+.talks + .events { margin-top: 56px; }
