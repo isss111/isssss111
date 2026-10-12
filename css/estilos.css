@@ -124,3 +124,11 @@ h2 + .caption { margin-top: 0; }
 figure + h2 { margin-top: 56px; }
 
 figure.portrait img { max-width: 360px; }
+
+.talks h3 {
+  font-size: 15px;
+  color: var(--text);
+  margin: 24px 0 4px;
+}
+.talks h2 + h3 { margin-top: 8px; }
+.talks + h2 { margin-top: 56px; }
