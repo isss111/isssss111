@@ -140,3 +140,5 @@ figure.portrait img { max-width: 360px; }
 }
 .events h2 + h3 { margin-top: 8px; }
 .talks + .events { margin-top: 56px; }
+
+.talks + p { margin-top: 40px; }
