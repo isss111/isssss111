@@ -96,3 +96,12 @@ main > h1:first-child { margin-top: 0; }
 
 
 .section-intro { margin-top: 40px; }
+
+figure { margin: 0 0 16px; }
+figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+.caption { color: var(--muted); }
