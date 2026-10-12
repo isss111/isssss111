@@ -108,3 +108,5 @@ figure img {
 
 h2 + .caption { margin-top: 0; }
 figure + h2 { margin-top: 56px; }
+
+figure.portrait img { max-width: 360px; }
