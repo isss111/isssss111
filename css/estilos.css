@@ -106,11 +106,5 @@ figure img {
 }
 .caption { color: var(--muted); }
 
-.photo-row {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 8px;
-}
-.photo-row figure { margin: 0; }
 h2 + .caption { margin-top: 0; }
-figure + h2, .photo-row + h2 { margin-top: 56px; }
+figure + h2 { margin-top: 56px; }
