@@ -151,3 +151,5 @@ figure.portrait img { max-width: 360px; }
 .essay h2 + h3 { margin-top: 8px; }
 .essay ul li { margin: 6px 0; }
 .essay ul + p { margin-top: 32px; }
+.sources { font-size: 13px; color: var(--muted); }
+h2.section-break { margin-top: 72px; padding-top: 32px; border-top: 1px solid #e5e5e5; }
