@@ -150,3 +150,4 @@ figure.portrait img { max-width: 360px; }
 }
 .essay h2 + h3 { margin-top: 8px; }
 .essay ul li { margin: 6px 0; }
+.essay ul + p { margin-top: 32px; }
